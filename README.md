@@ -1,3 +1,5 @@
+English | [中文](./README_CN.md)
+
 # Chess Guider - Chess AI Advisor
 
 A chess AI engine based on Alpha-Beta search, offering both command-line and browser interfaces. It runs in **advisor mode** — the AI plays your color, and you are responsible for syncing the opponent's moves on the board.
